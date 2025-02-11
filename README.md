@@ -5,7 +5,7 @@ This project uses an ADS-B Receiver to capture real-time data from aircraft flyi
 
 Even with a stock antenna, the receiver picks up a surprising number of aircraft. This project processes and displays the data the aircrafts.
 
-Work In Progress (WIP) but a demo can be found here -> [flyby.edelzamora.tech](flyby.edelzamora.tech)
+Work In Progress (WIP) but a demo can be found here -> [flyby.edelzamora.tech](https://flyby.edelzamora.tech)
 
 ### Hardware
 - Raspberry Pi 3
@@ -27,7 +27,7 @@ Work In Progress (WIP) but a demo can be found here -> [flyby.edelzamora.tech](f
 ## Demo
 
 Link to demo:
-[flyby](flyby.edelzamora.tech)
+[flyby](https://flyby.edelzamora.tech)
 
 ## Acknowledgements
 
