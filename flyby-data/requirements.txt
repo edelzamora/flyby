@@ -1,0 +1,4 @@
+icao_nnumber_converter_us
+requests
+fastapi
+uvicorn
